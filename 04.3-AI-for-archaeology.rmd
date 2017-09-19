@@ -1,0 +1,26 @@
+## Artificial Intelligence in Digital Archaeology 
+
+### agent models
+
+- remember to talk about https://www.openabm.org/
+- agent model in python? in R? in Netlogo?
+
+blah
+
+### discussion
+
+blah
+
+### exercises
+
+blah 
+
+### Machine learning for image captioning and other classificatory tasks
+
+blah
+
+### discussion
+
+blah
+
+### exercises
